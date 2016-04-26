@@ -1,7 +1,7 @@
 # [Word Order](http://karenfreemansmith.github.io/wordorder)
 ![project screenshot](/img/screenshot.jpg)
 
-__Version 1: April 18, 2016__
+__Version 1: April 25, 2016__
 ## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
 
 ### Description

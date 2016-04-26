@@ -1,5 +1,6 @@
 body {
   background-color: #660066;
+  color: white;
 }
 h1 {
   background-color: #cc0066;
@@ -9,4 +10,8 @@ h1 {
   text-align: center;
   font-family: 'Montez', cursive;
   border-top-left-radius: 100%;
+}
+
+button, input {
+  color: black;
 }
