@@ -4,8 +4,16 @@ $("#sortWords").click(function() {
   var orderedWords = [];
   var yourWords = $("#myWords").val();
   yourWords=yourWords.split(" ");
-  yourWords=yourWords.sort();
+
   yourWords.forEach(function(word) {
+    if(orderedWords.indexOf(word)===-1) {
+      orderedWords.push(word);
+    } else {
+      alert(orderedWords.indexOf(word));
+    }
+  });
+  orderedWords.sort();
+  orderedWords.forEach(function(word) {
     $("#yourWords").append("<li>" + word + "</li>");
   });
 });
