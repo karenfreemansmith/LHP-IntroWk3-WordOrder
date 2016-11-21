@@ -10,22 +10,22 @@ __*A website that counts the number of times a word occurs and sorts words in or
 * Let's create a website that lets users input a block of text and returns a list of all the unique words and how many times they appeared.
 * If you finish that are you're feeling really comfortable with forEach loops, try to do do the above exercise but order the list by the number of appearances - greatest to least. For words that appear the same amount of times, order by which word appeared first.
 
-#### Uses:
-* [Fresh Start](http://karenfreemansmith.github.io/freshstart)
+## Technologies Used
+HTML, CSS
 
-### Setup/Installation
-*None required. Clone or download and extract to use*
+## Setup/Installation
+* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* _OR_
+* Clone diectory 
+* Open index.html in your favorite browser
 
-### Support & Contact
-For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
+## Support & Contact
+For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
-### Known Issues
-* Still Under Construction
+## Known Issues
+* None
 
-### Technologies Used
-###### HTML, CSS, Bootstrap, JavaScript, jQuery
-
-### Legal
+## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 **_Karen Freeman-Smith_**
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
