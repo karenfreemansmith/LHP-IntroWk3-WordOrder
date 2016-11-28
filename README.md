@@ -1,29 +1,32 @@
-# [Word Order](http://karenfreemansmith.github.io/wordorder)
-![project screenshot](/img/screenshot.jpg)
+# Word Order
+Version 0.0.1: April 25, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 1: April 25, 2016__
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-### Description
-__*A website that counts the number of times a word occurs and sorts words in order of popularity.*__
+![screenshot of project running](screenshot.png)
 
-* Let's create a website that lets users input a block of text and returns a list of all the unique words and how many times they appeared.
-* If you finish that are you're feeling really comfortable with forEach loops, try to do do the above exercise but order the list by the number of appearances - greatest to least. For words that appear the same amount of times, order by which word appeared first.
-
-## Technologies Used
-HTML, CSS
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: A website that counts the number of times a word occurs and sorts words in order of popularity.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk3-WordOrder)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
 For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
+### Specifications
+* Website allows user to input a block of text.
+* Website prints out a list of all the unique words from the text.
+* Order the list by the number of appearances - greatest to least.
+* For words that appear the same amount of times, order by which word appeared first.
+
 ## Known Issues
-* None
+* Words are not sorting by popularity yet.
 
 ## Legal
 *Licensed under the GNU General Public License v3.0*
